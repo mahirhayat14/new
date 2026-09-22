@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hugging Face Streamlit Chatbot
 
 A simple local chatbot built with:
@@ -97,3 +98,6 @@ Close other programs and shorten the response using the **Maximum new tokens** s
 ### Clear the downloaded model cache
 
 Hugging Face stores downloaded models in the user cache. Do not remove it unless you intentionally want the model to download again.
+=======
+# new
+>>>>>>> 232437db44d9582433bcd02722ba1d8603c92a62
